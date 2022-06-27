@@ -10,3 +10,11 @@ Enthusiast Data scientist with problem-solving skills who is skilled at analyzin
 <br>
 
 
+*****************************
+
+Write about technology, machine learnig and data engineering on: [Medium](https://medium.com/@shyakakevin1).
+
+#### Also available on:
+
+* [Linkedin](https://www.linkedin.com/in/shyaka-kevin/)
+* [Twitter](https://twitter.com/shyaka15805627)
