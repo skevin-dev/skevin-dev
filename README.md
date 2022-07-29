@@ -16,7 +16,7 @@ Enthusiast Data scientist with problem-solving skills who is skilled at analyzin
 *****************************
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️  See my portfolio at [10Academy](https://sites.google.com/view/kevin-shyaka/home)
-* ✉️  You can contact me at [email](shyakakevin1@gmail.com)
+* ✉️  You can contact me at [shyakakevin1@gmail.com](mailto:shyakakevin1@gmail.com)
 
 ### Skills 
 
