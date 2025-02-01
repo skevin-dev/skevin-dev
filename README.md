@@ -1,6 +1,7 @@
 ### Hello 👋, I am Kevin Shyaka 
 
-Junior Data Scientist
+
+Data Scientist
 ------------------------------------------------------------------
 
 Data enthusiast with problem-solving skills who is skilled at analyzing data to provide valuable insights. Through various projects, I honed my skills in data mining, data visualization, big data modeling, and the development of predictive models. Currently working on different data analysis, machine learning and data engineering projects. 
