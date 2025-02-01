@@ -4,7 +4,7 @@
 Data Scientist
 ------------------------------------------------------------------
 
-Data enthusiast with problem-solving skills who is skilled at analyzing data to provide valuable insights. Through various projects, I honed my skills in data mining, data visualization, big data modeling, and the development of predictive models. Currently working on different data analysis, machine learning and data engineering projects. 
+Data Scientist with 3 years of experience in industry. Skilled at data analytics, statistical modeling, machine learning, natural language processing and deep learning. Adept to extract actionable insights from large datasets to drive innovation and business decisions.
 
 
 <br>
@@ -16,7 +16,7 @@ Data enthusiast with problem-solving skills who is skilled at analyzing data to 
 
 *****************************
 * 🌍  I'm based in Kigali, Rwanda
-* 🖥️  See my portfolio at [10Academy](https://sites.google.com/view/kevin-shyaka/home)
+* 🖥️  
 * ✉️  You can contact me at [shyakakevin1@gmail.com](mailto:shyakakevin1@gmail.com)
 
 ### Skills 
